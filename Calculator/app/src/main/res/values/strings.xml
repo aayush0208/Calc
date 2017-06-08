@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="clear">Clear</string>
+    <string name="_0">0</string>
+    <string name="equals">=</string>
+    <string name="bhaag">/</string>
+    <string name="ek_1">1</string>
+    <string name="do_2">2</string>
+    <string name="teen_3">3</string>
+    <string name="guna">*</string>
+    <string name="char_4">4</string>
+    <string name="paanch_5">5</string>
+    <string name="jama">+</string>
+    <string name="saat_7">7</string>
+    <string name="aath_8">8</string>
+    <string name="no_9">9</string>
+    <string name="ghata">-</string>
+    <string name="che_6">6</string>
+    <string name="end_Result"> Result</string>
+    <string name="input_number">number</string>
+    <string name="end_result">Result</string>
+</resources>
